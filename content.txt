@@ -1,0 +1,34 @@
+# Witze
+Was macht ein Pirat am Computer? Er drückt die Enter-Taste!
+Warum können Elefanten nicht fliegen? Weil sie keine Flugzeuge sind!
+Warum nehmen Geister so selten am Unterricht teil? Weil sie immer durchfallen!
+Warum können Vögel so gut singen? Weil sie ihre Lieder auswendig lernen!
+Gestern habe ich einen Joghurt fallen gelassen. Er war nicht mehr haltbar.
+Geht ein Dalmatiner im Supermarkt einkaufen. Fragt der Kassierer: "Sammeln Sie Punkte?"
+Was steht auf dem Grabstein eines Mathematikers?    Damit hat er nicht gerechnet.
+Warum nennt man Teigwaren eigentlich Teigwaren? Na, weil sie mal Teig waren
+Ich wollte beim Brötchen anrufen, aber es war belegt.
+Fragt der Kellner im Restaurant: "Möchten Sie Ihren Kaffee schwarz?" Antwortet der Gast: Welche Farben haben Sie denn noch?
+Zwei Kühe stehen auf einer grünen Weide, da sagt die eine: "Muh!" Antwortet die andere: Verrückt - das wollte ich auch gerade sagen!
+Schon komisch  auf den ältesten Fotos sieht man am jüngsten aus.
+Läuft ein Schweinchen an einer Steckdose vorbei. Fragt es ganz erstaunt: Nanu - wer hat dich denn eingemauert?
+Warum gehen Ameisen nicht in Kirchen? Weil sie In Sekten sind.
+
+# Musiktitel
+background.mp3
+new_background.mp3
+
+# Grüße
+Herzliche Grüße an alle!
+Hallo allerseits!
+Guten Morgen, wie geht's?
+Einen schönen guten Tag!
+Guten Abend, wie war dein Tag?
+Schön, dass wir uns treffen!
+Pass gut auf dich auf!
+
+# Hello
+Hallo, mein Name ist Sahra
+Ich bin dein sprechender Avatar
+wie kann ich dir helfen?
+Aua das tut weh
